@@ -6,6 +6,7 @@ data = [[16.6, 17.3, 16.9, 16.2, 14.9, 17.1, 16.5], [15.1, 15.7, 15.8, 15.7, 14.
 df = pd.DataFrame(data, index, columns)
 df
 
+# create age dfs
 index = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 data = [16.6, 17.3, 16.9, 16.2, 14.9, 17.1, 16.5]
 df_preteen = pd.Series(data, index)
