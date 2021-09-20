@@ -1,4 +1,4 @@
-# technology-vs-temperament
+# Temperament versus Technology Usage
 Data visualizations of students' temperament after phone usage
 
 Programming Language: Python
